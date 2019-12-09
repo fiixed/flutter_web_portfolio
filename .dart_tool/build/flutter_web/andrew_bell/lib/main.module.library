@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["andrew_bell|lib/pages/home_page.dart","andrew_bell|lib/widgets/theme_inherited_widget.dart","flutter|lib/material.dart","andrew_bell|lib/config/themes.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","andrew_bell|lib/config/assets.dart","andrew_bell|lib/tabs/about_tab.dart","andrew_bell|lib/tabs/resume_tab.dart","andrew_bell|lib/tabs/projects_tab.dart","andrew_bell|lib/widgets/theme_inherited_widget.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["universal_html|lib/prefer_universal/html.dart","andrew_bell|lib/models/project_model.dart","flutter|lib/material.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["andrew_bell|lib/models/project_model.dart","andrew_bell|lib/config/assets.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

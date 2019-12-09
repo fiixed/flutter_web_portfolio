@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["andrew_bell|lib/config/projects.dart","andrew_bell|lib/widgets/project_widget.dart","andrew_bell|lib/widgets/responsive_widget.dart","flutter|lib/material.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}
