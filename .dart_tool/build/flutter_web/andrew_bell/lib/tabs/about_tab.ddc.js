@@ -555,14 +555,80 @@ define(['dart_sdk', 'packages/flutter/src/widgets/actions', 'packages/flutter/sr
       return C66 = dart.const({
         __proto__: widget_inspector._Location.prototype,
         [_Location_parameterLocations]: null,
+        [_Location_name]: "height",
+        [_Location_column]: 17,
+        [_Location_line]: 65,
+        [_Location_file]: null
+      });
+    },
+    get C65() {
+      return C65 = dart.constList([C66 || CT.C66], widget_inspector._Location);
+    },
+    get C64() {
+      return C64 = dart.const({
+        __proto__: widget_inspector._Location.prototype,
+        [_Location_parameterLocations]: C65 || CT.C65,
+        [_Location_name]: null,
+        [_Location_column]: 15,
+        [_Location_line]: 64,
+        [_Location_file]: "org-dartlang-app:///packages/andrew_bell/tabs/about_tab.dart"
+      });
+    },
+    get C69() {
+      return C69 = dart.const({
+        __proto__: widget_inspector._Location.prototype,
+        [_Location_parameterLocations]: null,
+        [_Location_name]: "data",
+        [_Location_column]: 17,
+        [_Location_line]: 68,
+        [_Location_file]: null
+      });
+    },
+    get C70() {
+      return C70 = dart.const({
+        __proto__: widget_inspector._Location.prototype,
+        [_Location_parameterLocations]: null,
+        [_Location_name]: "style",
+        [_Location_column]: 17,
+        [_Location_line]: 69,
+        [_Location_file]: null
+      });
+    },
+    get C71() {
+      return C71 = dart.const({
+        __proto__: widget_inspector._Location.prototype,
+        [_Location_parameterLocations]: null,
+        [_Location_name]: "textAlign",
+        [_Location_column]: 17,
+        [_Location_line]: 70,
+        [_Location_file]: null
+      });
+    },
+    get C68() {
+      return C68 = dart.constList([C69 || CT.C69, C70 || CT.C70, C71 || CT.C71], widget_inspector._Location);
+    },
+    get C67() {
+      return C67 = dart.const({
+        __proto__: widget_inspector._Location.prototype,
+        [_Location_parameterLocations]: C68 || CT.C68,
+        [_Location_name]: null,
+        [_Location_column]: 15,
+        [_Location_line]: 67,
+        [_Location_file]: "org-dartlang-app:///packages/andrew_bell/tabs/about_tab.dart"
+      });
+    },
+    get C74() {
+      return C74 = dart.const({
+        __proto__: widget_inspector._Location.prototype,
+        [_Location_parameterLocations]: null,
         [_Location_name]: "crossAxisAlignment",
         [_Location_column]: 13,
         [_Location_line]: 14,
         [_Location_file]: null
       });
     },
-    get C67() {
-      return C67 = dart.const({
+    get C75() {
+      return C75 = dart.const({
         __proto__: widget_inspector._Location.prototype,
         [_Location_parameterLocations]: null,
         [_Location_name]: "children",
@@ -571,21 +637,21 @@ define(['dart_sdk', 'packages/flutter/src/widgets/actions', 'packages/flutter/sr
         [_Location_file]: null
       });
     },
-    get C65() {
-      return C65 = dart.constList([C66 || CT.C66, C67 || CT.C67], widget_inspector._Location);
+    get C73() {
+      return C73 = dart.constList([C74 || CT.C74, C75 || CT.C75], widget_inspector._Location);
     },
-    get C64() {
-      return C64 = dart.const({
+    get C72() {
+      return C72 = dart.const({
         __proto__: widget_inspector._Location.prototype,
-        [_Location_parameterLocations]: C65 || CT.C65,
+        [_Location_parameterLocations]: C73 || CT.C73,
         [_Location_name]: null,
         [_Location_column]: 18,
         [_Location_line]: 13,
         [_Location_file]: "org-dartlang-app:///packages/andrew_bell/tabs/about_tab.dart"
       });
     },
-    get C70() {
-      return C70 = dart.const({
+    get C78() {
+      return C78 = dart.const({
         __proto__: widget_inspector._Location.prototype,
         [_Location_parameterLocations]: null,
         [_Location_name]: "padding",
@@ -594,8 +660,8 @@ define(['dart_sdk', 'packages/flutter/src/widgets/actions', 'packages/flutter/sr
         [_Location_file]: null
       });
     },
-    get C71() {
-      return C71 = dart.const({
+    get C79() {
+      return C79 = dart.const({
         __proto__: widget_inspector._Location.prototype,
         [_Location_parameterLocations]: null,
         [_Location_name]: "child",
@@ -604,21 +670,21 @@ define(['dart_sdk', 'packages/flutter/src/widgets/actions', 'packages/flutter/sr
         [_Location_file]: null
       });
     },
-    get C69() {
-      return C69 = dart.constList([C70 || CT.C70, C71 || CT.C71], widget_inspector._Location);
+    get C77() {
+      return C77 = dart.constList([C78 || CT.C78, C79 || CT.C79], widget_inspector._Location);
     },
-    get C68() {
-      return C68 = dart.const({
+    get C76() {
+      return C76 = dart.const({
         __proto__: widget_inspector._Location.prototype,
-        [_Location_parameterLocations]: C69 || CT.C69,
+        [_Location_parameterLocations]: C77 || CT.C77,
         [_Location_name]: null,
         [_Location_column]: 16,
         [_Location_line]: 11,
         [_Location_file]: "org-dartlang-app:///packages/andrew_bell/tabs/about_tab.dart"
       });
     },
-    get C74() {
-      return C74 = dart.const({
+    get C82() {
+      return C82 = dart.const({
         __proto__: widget_inspector._Location.prototype,
         [_Location_parameterLocations]: null,
         [_Location_name]: "child",
@@ -627,21 +693,21 @@ define(['dart_sdk', 'packages/flutter/src/widgets/actions', 'packages/flutter/sr
         [_Location_file]: null
       });
     },
-    get C73() {
-      return C73 = dart.constList([C74 || CT.C74], widget_inspector._Location);
+    get C81() {
+      return C81 = dart.constList([C82 || CT.C82], widget_inspector._Location);
     },
-    get C72() {
-      return C72 = dart.const({
+    get C80() {
+      return C80 = dart.const({
         __proto__: widget_inspector._Location.prototype,
-        [_Location_parameterLocations]: C73 || CT.C73,
+        [_Location_parameterLocations]: C81 || CT.C81,
         [_Location_name]: null,
         [_Location_column]: 14,
         [_Location_line]: 10,
         [_Location_file]: "org-dartlang-app:///packages/andrew_bell/tabs/about_tab.dart"
       });
     },
-    get C77() {
-      return C77 = dart.const({
+    get C85() {
+      return C85 = dart.const({
         __proto__: widget_inspector._Location.prototype,
         [_Location_parameterLocations]: null,
         [_Location_name]: "child",
@@ -650,13 +716,13 @@ define(['dart_sdk', 'packages/flutter/src/widgets/actions', 'packages/flutter/sr
         [_Location_file]: null
       });
     },
-    get C76() {
-      return C76 = dart.constList([C77 || CT.C77], widget_inspector._Location);
+    get C84() {
+      return C84 = dart.constList([C85 || CT.C85], widget_inspector._Location);
     },
-    get C75() {
-      return C75 = dart.const({
+    get C83() {
+      return C83 = dart.const({
         __proto__: widget_inspector._Location.prototype,
-        [_Location_parameterLocations]: C76 || CT.C76,
+        [_Location_parameterLocations]: C84 || CT.C84,
         [_Location_name]: null,
         [_Location_column]: 12,
         [_Location_line]: 9,
@@ -738,22 +804,30 @@ define(['dart_sdk', 'packages/flutter/src/widgets/actions', 'packages/flutter/sr
   let C60;
   let C59;
   let C66;
-  let C67;
   let C65;
   let C64;
+  let C69;
   let C70;
   let C71;
-  let C69;
   let C68;
+  let C67;
   let C74;
+  let C75;
   let C73;
   let C72;
+  let C78;
+  let C79;
   let C77;
   let C76;
-  let C75;
+  let C82;
+  let C81;
+  let C80;
+  let C85;
+  let C84;
+  let C83;
   about_tab.AboutTab = class AboutTab extends framework.StatelessWidget {
     build(context) {
-      return new single_child_scroll_view.SingleChildScrollView.new({child: new basic.Center.new({child: new basic.Padding.new({padding: C0 || CT.C0, child: new basic.Column.new({crossAxisAlignment: flex.CrossAxisAlignment.center, children: JSArrayOfWidget().of([new circle_avatar.CircleAvatar.new({radius: 100.0, backgroundImage: new image.Image.asset("assets/avatar.jpg", {$creationLocationd_0dea112b090073317d4: C1 || CT.C1}).image, $creationLocationd_0dea112b090073317d4: C4 || CT.C4}), new basic.SizedBox.new({height: 20.0, $creationLocationd_0dea112b090073317d4: C8 || CT.C8}), new text.Text.new("Andrew Bell", {textScaleFactor: 4.0, $creationLocationd_0dea112b090073317d4: C11 || CT.C11}), new basic.SizedBox.new({height: 20.0, $creationLocationd_0dea112b090073317d4: C15 || CT.C15}), new text.Text.new("Flutter. Cricket. Pugs.\nLoves Traveling.", {style: theme.Theme.of(context).textTheme.caption, textScaleFactor: 2.0, textAlign: ui.TextAlign.center, $creationLocationd_0dea112b090073317d4: C18 || CT.C18}), new basic.SizedBox.new({height: 40.0, $creationLocationd_0dea112b090073317d4: C24 || CT.C24}), new basic.Row.new({mainAxisAlignment: flex.MainAxisAlignment.center, crossAxisAlignment: flex.CrossAxisAlignment.center, children: JSArrayOfWidget().of([new flat_button._FlatButtonWithIcon.new({icon: new basic.SizedBox.new({width: 20.0, height: 20.0, child: new image.Image.asset("assets/linkedin.png", {$creationLocationd_0dea112b090073317d4: C27 || CT.C27}), $creationLocationd_0dea112b090073317d4: C30 || CT.C30}), label: new text.Text.new("Linkedin", {$creationLocationd_0dea112b090073317d4: C35 || CT.C35}), onPressed: dart.fn(() => html.window[$open](constants.Constants.PROFILE_LINKEDIN, "fiixed"), VoidToWindowBase()), $creationLocationd_0dea112b090073317d4: C38 || CT.C38}), new flat_button._FlatButtonWithIcon.new({icon: new basic.SizedBox.new({width: 20.0, height: 20.0, child: new image.Image.asset("assets/github.png", {$creationLocationd_0dea112b090073317d4: C43 || CT.C43}), $creationLocationd_0dea112b090073317d4: C46 || CT.C46}), label: new text.Text.new("Github", {$creationLocationd_0dea112b090073317d4: C51 || CT.C51}), onPressed: dart.fn(() => html.window[$open]("https://github.com/fiixed/", "fiixed"), VoidToWindowBase()), $creationLocationd_0dea112b090073317d4: C54 || CT.C54})]), $creationLocationd_0dea112b090073317d4: C59 || CT.C59})]), $creationLocationd_0dea112b090073317d4: C64 || CT.C64}), $creationLocationd_0dea112b090073317d4: C68 || CT.C68}), $creationLocationd_0dea112b090073317d4: C72 || CT.C72}), $creationLocationd_0dea112b090073317d4: C75 || CT.C75});
+      return new single_child_scroll_view.SingleChildScrollView.new({child: new basic.Center.new({child: new basic.Padding.new({padding: C0 || CT.C0, child: new basic.Column.new({crossAxisAlignment: flex.CrossAxisAlignment.center, children: JSArrayOfWidget().of([new circle_avatar.CircleAvatar.new({radius: 100.0, backgroundImage: new image.Image.asset("assets/avatar.jpg", {$creationLocationd_0dea112b090073317d4: C1 || CT.C1}).image, $creationLocationd_0dea112b090073317d4: C4 || CT.C4}), new basic.SizedBox.new({height: 20.0, $creationLocationd_0dea112b090073317d4: C8 || CT.C8}), new text.Text.new("Andrew Bell", {textScaleFactor: 4.0, $creationLocationd_0dea112b090073317d4: C11 || CT.C11}), new basic.SizedBox.new({height: 20.0, $creationLocationd_0dea112b090073317d4: C15 || CT.C15}), new text.Text.new("Flutter. Cricket. Pugs.\nLoves Traveling.", {style: theme.Theme.of(context).textTheme.caption, textScaleFactor: 2.0, textAlign: ui.TextAlign.center, $creationLocationd_0dea112b090073317d4: C18 || CT.C18}), new basic.SizedBox.new({height: 40.0, $creationLocationd_0dea112b090073317d4: C24 || CT.C24}), new basic.Row.new({mainAxisAlignment: flex.MainAxisAlignment.center, crossAxisAlignment: flex.CrossAxisAlignment.center, children: JSArrayOfWidget().of([new flat_button._FlatButtonWithIcon.new({icon: new basic.SizedBox.new({width: 20.0, height: 20.0, child: new image.Image.asset("assets/linkedin.png", {$creationLocationd_0dea112b090073317d4: C27 || CT.C27}), $creationLocationd_0dea112b090073317d4: C30 || CT.C30}), label: new text.Text.new("Linkedin", {$creationLocationd_0dea112b090073317d4: C35 || CT.C35}), onPressed: dart.fn(() => html.window[$open](constants.Constants.PROFILE_LINKEDIN, "fiixed"), VoidToWindowBase()), $creationLocationd_0dea112b090073317d4: C38 || CT.C38}), new flat_button._FlatButtonWithIcon.new({icon: new basic.SizedBox.new({width: 20.0, height: 20.0, child: new image.Image.asset("assets/github.png", {$creationLocationd_0dea112b090073317d4: C43 || CT.C43}), $creationLocationd_0dea112b090073317d4: C46 || CT.C46}), label: new text.Text.new("Github", {$creationLocationd_0dea112b090073317d4: C51 || CT.C51}), onPressed: dart.fn(() => html.window[$open]("https://github.com/fiixed/", "fiixed"), VoidToWindowBase()), $creationLocationd_0dea112b090073317d4: C54 || CT.C54})]), $creationLocationd_0dea112b090073317d4: C59 || CT.C59}), new basic.SizedBox.new({height: 40.0, $creationLocationd_0dea112b090073317d4: C64 || CT.C64}), new text.Text.new("(Built using Flutter for Web)", {style: theme.Theme.of(context).textTheme.caption, textAlign: ui.TextAlign.center, $creationLocationd_0dea112b090073317d4: C67 || CT.C67})]), $creationLocationd_0dea112b090073317d4: C72 || CT.C72}), $creationLocationd_0dea112b090073317d4: C76 || CT.C76}), $creationLocationd_0dea112b090073317d4: C80 || CT.C80}), $creationLocationd_0dea112b090073317d4: C83 || CT.C83});
     }
   };
   (about_tab.AboutTab.new = function(opts) {
@@ -770,7 +844,7 @@ define(['dart_sdk', 'packages/flutter/src/widgets/actions', 'packages/flutter/sr
   dart.trackLibraries("packages/andrew_bell/tabs/about_tab", {
     "package:andrew_bell/tabs/about_tab.dart": about_tab
   }, {
-  }, '{"version":3,"sourceRoot":"","sources":["about_tab.dart"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;UAO4B;AACxB,YAAO,gEACE,6BACE,oDAEE,0CACkC,0CACrB,sBAChB,4CACU,wBACe,AAAqB,gKAE9C,gCACU,6DAEV,kBACE,iCACiB,8DAEnB,gCACU,+DAEV,kBACE,qDACa,AAAY,AAAU,eAAnB,OAAO,sCACN,gBACI,8EAEvB,gCACU,+DAEV,sCACuC,mDACE,0CACrB,sBACL,+CACH,+BACK,cACC,aACK,uKACV,kBAAK,iFACD,cACF,AAAO,mBAAe,sCAAkB,yFAExC,+CACH,+BACK,cACC,aACK,qKACV,kBAAK,+EACD,cACF,AAAO,iDAA+B;IAUjE;;;;;;EACF","file":"about_tab.ddc.js"}');
+  }, '{"version":3,"sourceRoot":"","sources":["about_tab.dart"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;UAO4B;AACxB,YAAO,gEACE,6BACE,oDAEE,0CACkC,0CACrB,sBAChB,4CACU,wBACe,AAAqB,gKAE9C,gCACU,6DAEV,kBACE,iCACiB,8DAEnB,gCACU,+DAEV,kBACE,qDACa,AAAY,AAAU,eAAnB,OAAO,sCACN,gBACI,8EAEvB,gCACU,+DAEV,sCACuC,mDACE,0CACrB,sBACL,+CACH,+BACK,cACC,aACK,uKACV,kBAAK,iFACD,cACF,AAAO,mBAAe,sCAAkB,yFAExC,+CACH,+BACK,cACC,aACK,qKACV,kBAAK,+EACD,cACF,AAAO,iDAA+B,oJAKrD,gCACU,+DAEV,kBACE,yCACa,AAAY,AAAU,eAAnB,OAAO,gCACF;IAOnC;;;;;;EACF","file":"about_tab.ddc.js"}');
   // Exports:
   return {
     tabs__about_tab: about_tab

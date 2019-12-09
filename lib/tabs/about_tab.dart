@@ -61,6 +61,14 @@ class AboutTab extends StatelessWidget {
                   
                 ],
               ),
+              SizedBox(
+                height: 40,
+              ),
+              Text(
+                '(Built using Flutter for Web...by me!)',
+                style: Theme.of(context).textTheme.caption,
+                textAlign: TextAlign.center,
+              ),
             ],
           ),
         ),
