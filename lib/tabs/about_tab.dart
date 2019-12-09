@@ -44,20 +44,21 @@ class AboutTab extends StatelessWidget {
                     icon: SizedBox(
                         width: 20,
                         height: 20,
-                        child: Image.asset(Assets.github)),
-                    label: Text('Github'),
-                    onPressed: () =>
-                        html.window.open(Constants.PROFILE_GITHUB, 'fiixed'),
-                  ),
-                  FlatButton.icon(
-                    icon: SizedBox(
-                        width: 20,
-                        height: 20,
                         child: Image.asset(Assets.linkedin)),
                     label: Text('Linkedin'),
                     onPressed: () =>
                         html.window.open(Constants.PROFILE_LINKEDIN, 'fiixed'),
                   ),
+                  FlatButton.icon(
+                    icon: SizedBox(
+                        width: 20,
+                        height: 20,
+                        child: Image.asset(Assets.github)),
+                    label: Text('Github'),
+                    onPressed: () =>
+                        html.window.open(Constants.PROFILE_GITHUB, 'fiixed'),
+                  ),
+                  
                 ],
               ),
             ],
