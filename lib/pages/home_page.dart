@@ -29,6 +29,7 @@ class _HomePageState extends State<HomePage> {
         appBar: AppBar(
           actions: <Widget>[
             IconButton(
+              tooltip: 'Toggle Dark Mode',
               icon: ThemeSwitcher.of(context).isDarkModeOn?Icon(Icons.wb_sunny):Image.asset(Assets.moon,height: 20,width: 20,),
               onPressed: ()=> ThemeSwitcher.of(context).switchDarkMode(),
             )

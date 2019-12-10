@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 class AboutTab extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+
     return SingleChildScrollView(
       child: Center(
         child: Padding(
@@ -28,7 +29,7 @@ class AboutTab extends StatelessWidget {
                 height: 20,
               ),
               Text(
-                'Flutter. Cricket. Pugs.\nLoves Traveling.',
+                'Flutter. Cricket. Pugs.\n Travel.',
                 style: Theme.of(context).textTheme.caption,
                 textScaleFactor: 2,
                 textAlign: TextAlign.center,
@@ -58,7 +59,6 @@ class AboutTab extends StatelessWidget {
                     onPressed: () =>
                         html.window.open(Constants.PROFILE_GITHUB, 'fiixed'),
                   ),
-                  
                 ],
               ),
               SizedBox(
