@@ -7,7 +7,7 @@ final List<Project> projects = [
       image: Assets.video_diary,
       description:
           'Record your personal thoughts and daily life.  Built using Flutter',
-      link: 'https://play.google.com/store/apps/details?id=com.truelancer.app'),
+      link: 'https://play.google.com/store/apps/details?id=com.fiixed.video_diary'),
   Project(
       name: 'Invest Austin',
       image: Assets.invest_austin,

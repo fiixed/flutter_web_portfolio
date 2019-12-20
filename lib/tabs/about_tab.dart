@@ -2,6 +2,7 @@ import 'package:universal_html/prefer_universal/html.dart' as html;
 import 'package:andrew_bell/config/assets.dart';
 import 'package:andrew_bell/config/constants.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 
 class AboutTab extends StatelessWidget {
   @override

@@ -1,6 +1,6 @@
 import 'dart:ui' as ui;
 
-import 'package:andrew_bell/main.dart' as entrypoint;
+import "file:///Users/andrewb/development/andrew_bell.io/lib/main.dart" as entrypoint;
 
 Future<void> main() async {
   if (true) {

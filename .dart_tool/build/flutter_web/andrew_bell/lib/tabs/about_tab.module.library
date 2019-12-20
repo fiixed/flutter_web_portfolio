@@ -1,1 +1,1 @@
-{"isEntrypoint":true,"deps":["universal_html|lib/prefer_universal/html.dart","andrew_bell|lib/config/assets.dart","andrew_bell|lib/config/constants.dart","flutter|lib/material.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}
+{"isEntrypoint":true,"deps":["universal_html|lib/prefer_universal/html.dart","andrew_bell|lib/config/assets.dart","andrew_bell|lib/config/constants.dart","flutter|lib/material.dart","flutter|lib/cupertino.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}
