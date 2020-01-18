@@ -162,7 +162,7 @@ define(['dart_sdk', 'packages/flutter/src/widgets/actions'], function(dart_sdk, 
   dart.trackLibraries("packages/andrew_bell/widgets/theme_inherited_widget", {
     "package:andrew_bell/widgets/theme_inherited_widget.dart": theme_inherited_widget
   }, {
-  }, '{"version":3,"sourceRoot":"","sources":["theme_inherited_widget.dart"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAGkC;;;;;;cASiB;AAC/C,YACA,AACK,yCAFG,AAAQ,OAAD,8BAA8B;IAG/C;uBAGsC;;AACpC,YAAY,EAAL,eAAQ,GAAG;IACpB;;;QAfM;QACW;QACE;;IADF;UAEJ,AAAM,KAAD,IAAI;AAChB,wEAAW,GAAG,SAAS,KAAK;;EAAC;;;;;;;;;;;;;;IAexB;;;;;;IACE;;;;;;;AAQ8B;IAA2B;;;QAN7C;QAAU;QAAwB;;IAAxB;IAAwB;UAC9C,AAAkB,iBAAD,IAAI;UACrB,AAAM,KAAD,IAAI;AAChB,8EAAW,GAAG;;EAAC;;;;;;;;;;;;;;;;;;;;;;;AAajB,MAFF,cAAS;AACqB,QAA5B,oBAAe,WAAC;;IAEpB;UAG0B;;AAC+B,MAAvD,qBAA4B,8BAAb,OAAgB,AAAO;AACtC,YAAO,qDACC,aACC,AAAO;IAElB;;;IAfK;;;EAgBP","file":"theme_inherited_widget.ddc.js"}');
+  }, '{"version":3,"sourceRoot":"","sources":["theme_inherited_widget.dart"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAGkC;;;;;;cASiB;AAC/C,YACA,AACK,yCAFG,AAAQ,OAAD,8BAA8B;IAG/C;;kDAGsC;AACpC,YAAY,EAAL,eAAQ,GAAG;IACpB;;;QAfM;QACW;QACE;;IADF;UAEJ,AAAM,KAAD,IAAI;AAChB,wEAAW,GAAG,SAAS,KAAK;;EAAC;;;;;;;;;;;;;;IAexB;;;;;;IACE;;;;;;;AAQ8B;IAA2B;;;QAN7C;QAAU;QAAwB;;IAAxB;IAAwB;UAC9C,AAAkB,iBAAD,IAAI;UACrB,AAAM,KAAD,IAAI;AAChB,8EAAW,GAAG;;EAAC;;;;;;;;;;;;;;;;;;;;;;;AAajB,MAFF,cAAS;AACqB,QAA5B,oBAAe,WAAC;;IAEpB;UAG0B;;AAC+B,MAAvD,qBAA4B,8BAAb,OAAgB,AAAO;AACtC,YAAO,qDACC,aACC,AAAO;IAElB;;;IAfK;;;EAgBP","file":"theme_inherited_widget.ddc.js"}');
   // Exports:
   return {
     widgets__theme_inherited_widget: theme_inherited_widget
